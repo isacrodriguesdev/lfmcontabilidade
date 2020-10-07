@@ -3,13 +3,26 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "node ssr-server.js",
     "build": "next build",
-    "start": "next start"
+    "start": "node ssr-server.js"
   },
   "dependencies": {
+    "axios": "^0.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
     "next": "9.5.3",
+    "next-images": "^1.6.0",
+    "next-react-svg": "^1.1.2",
+    "nextjs-toast": "^1.0.4",
+    "nodemailer": "^6.4.13",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "react-hook-form": "^6.9.1",
+    "react-nextjs-toast": "^1.2.5",
+    "styled-components": "^5.2.0"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.11.1"
   }
 }
