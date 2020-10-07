@@ -3769,13 +3769,6 @@ next@9.5.3:
     webpack "4.44.1"
     webpack-sources "1.4.3"
 
-nextjs-toast@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/nextjs-toast/-/nextjs-toast-1.0.4.tgz#4d0fa6ed418e9addb48c11568c264a70b060ef8f"
-  integrity sha512-1QyczBzWtLP0DpKZoY3rfSiVJ2kgvydspWdlquX08r/lUrtqJ8ZP6yn2VyON7TzneC60wGyRdykyexjmZvyB7g==
-  dependencies:
-    prop-types "^15.7.2"
-
 node-fetch@2.6.0:
   version "2.6.0"
   resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.0.tgz#e633456386d4aa55863f676a7ab0daa8fdecb0fd"
@@ -4178,7 +4171,7 @@ promise-inflight@^1.0.1:
   resolved "https://registry.yarnpkg.com/promise-inflight/-/promise-inflight-1.0.1.tgz#98472870bf228132fcbdd868129bad12c3c029e3"
   integrity sha1-mEcocL8igTL8vdhoEputEsPAKeM=
 
-prop-types@15.7.2, prop-types@^15.6.2, prop-types@^15.7.2:
+prop-types@15.7.2, prop-types@^15.6.2:
   version "15.7.2"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.7.2.tgz#52c41e75b8c87e72b9d9360e0206b99dcbffa6c5"
   integrity sha512-8QQikdH7//R2vurIJSutZ1smHYTcLpRWEOlHnzcWHmBYrOGUysKwSsrC89BCiFj3CbrfJ/nXFdJepOVrY1GCHQ==

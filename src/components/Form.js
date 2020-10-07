@@ -9,7 +9,6 @@ import UserSVG from '../assets/images/svg/user-name.svg'
 import DirectSVG from '../assets/images/svg/direct.svg'
 import PhoneSVG from '../assets/images/svg/phone-call.svg'
 import WhatsappSVG from '../assets/images/svg/whatsapp.svg'
-import CheckMarkSVG from '../assets/images/svg/check-mark.svg'
 
 export default function Form() {
 
