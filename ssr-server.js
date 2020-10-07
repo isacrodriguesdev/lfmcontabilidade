@@ -33,7 +33,7 @@ app.prepare()
         .catch(console.log)
     })
 
-    server.listen(3334)
+    server.listen(3333)
   })
   .catch((err) => {
     console.error(err.stack)
