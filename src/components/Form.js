@@ -67,7 +67,6 @@ export default function Form() {
             <div className="form-group col-md-6">
               <InputContainer>
                 <DirectSVG width={24} height={24} />
-                {/* <CheckMarkSVG width={24} height={24} /> */}
                 <input type="email" placeholder="* E-mail" required name="email" ref={register({
                   required: "Required",
                   minLength: 10,
